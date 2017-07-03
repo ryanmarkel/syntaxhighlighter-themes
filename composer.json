@@ -1,0 +1,10 @@
+{
+    "name"       : "ryanmarkel/syntaxhighlighter-themes",
+    "description": "Additional themes for Syntax Highlighter Evolved.",
+    "homepage"   : "http://ryanmarkel.com/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "require"    : {
+        "composer/installers": "~1.0"
+    }
+}
