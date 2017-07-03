@@ -12,4 +12,4 @@ This WordPress plugin adds new themes to [SyntaxHighlighter Evolved](https://git
 	- Night
 	
 ##Requests
-If you have a new theme that you would like me to add, fill free to [send me a request](http://kopepasah.com/contact). However, note that this theme may not appear exactly as it does in your editor.
+If you have a new theme that you would like me to add, feel free to file a pull request.
